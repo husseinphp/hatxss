@@ -21,7 +21,7 @@ info:
 requests:
   - method: GET
     path:
-      - '{{BaseURL}}/contact-us?name=husseinx%22%2F%3Eali'
+      - '{{BaseURL}}/index.php?name=husseinx%22%2F%3Eali'
 
     matchers-condition: and
     matchers:
